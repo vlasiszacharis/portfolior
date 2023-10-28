@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.Card{
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height : 40vh;
+
+}
